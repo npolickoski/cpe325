@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;lab5_bonus/main.asm&apos; to &apos;lab5_bonus.asm&apos;" description="Rename resource &apos;main.asm&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="main.asm" name="lab5_bonus.asm" stamp="1694983471240" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;lab5_bonus/HW_dot2.asm&apos; to &apos;HW_dot.asm&apos;" description="Rename resource &apos;HW_dot2.asm&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="HW_dot2.asm" name="HW_dot.asm" stamp="1694984443256" updateReferences="true"/>
+</session>

@@ -1,0 +1,28 @@
+
+**** Build of configuration Debug for project lab2_pt3 ****
+
+"C:\\ti\\ccs1240\\ccs\\utils\\bin\\gmake" -k -j 16 Lab02_P3.obj -O 
+ 
+Building file: "../Lab02_P3.c"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1240/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmsp --data_model=small -Ooff --use_hw_mpy=F5 --include_path="C:/ti/ccs1240/ccs/ccs_base/msp430/include" --include_path="C:/Users/npoli/Documents/nerd code/C - Embedded Lab/lab2_pt3" --include_path="C:/ti/ccs1240/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=full --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --asm_listing --preproc_with_compile --preproc_dependency="Lab02_P3.d_raw"  "../Lab02_P3.c"
+"../Lab02_P3.c", line 81: remark #1532-D: (ULP 5.3) Detected printf() operation(s). Recommend moving them to RAM during run time or not using as these are processing/power intensive
+"../Lab02_P3.c", line 84: remark #1532-D: (ULP 5.3) Detected printf() operation(s). Recommend moving them to RAM during run time or not using as these are processing/power intensive
+"../Lab02_P3.c", line 87: remark #1532-D: (ULP 5.3) Detected printf() operation(s). Recommend moving them to RAM during run time or not using as these are processing/power intensive
+"../Lab02_P3.c", line 90: remark #1532-D: (ULP 5.3) Detected printf() operation(s). Recommend moving them to RAM during run time or not using as these are processing/power intensive
+"../Lab02_P3.c", line 106: remark #1544-D: (ULP 13.1) Detected loop counting up. Recommend loops count down as detecting zeros is easier
+"../Lab02_P3.c", line 108: remark #1544-D: (ULP 13.1) Detected loop counting up. Recommend loops count down as detecting zeros is easier
+"../Lab02_P3.c", line 113: remark #1544-D: (ULP 13.1) Detected loop counting up. Recommend loops count down as detecting zeros is easier
+"../Lab02_P3.c", line 128: remark #1532-D: (ULP 5.3) Detected printf() operation(s). Recommend moving them to RAM during run time or not using as these are processing/power intensive
+"../Lab02_P3.c", line 132: remark #1544-D: (ULP 13.1) Detected loop counting up. Recommend loops count down as detecting zeros is easier
+"../Lab02_P3.c", line 134: remark #1544-D: (ULP 13.1) Detected loop counting up. Recommend loops count down as detecting zeros is easier
+"../Lab02_P3.c", line 138: remark #1532-D: (ULP 5.3) Detected printf() operation(s). Recommend moving them to RAM during run time or not using as these are processing/power intensive
+"../Lab02_P3.c", line 141: remark #1532-D: (ULP 5.3) Detected printf() operation(s). Recommend moving them to RAM during run time or not using as these are processing/power intensive
+"../Lab02_P3.c", line 144: remark #1532-D: (ULP 5.3) Detected printf() operation(s). Recommend moving them to RAM during run time or not using as these are processing/power intensive
+"../Lab02_P3.c", line 110 (col. 31): remark #1531-D: (ULP 5.2) Detected floating point operation(s). Recommend moving them to RAM during run time or not using as these are processing/power intensive
+"../Lab02_P3.c", line 115 (col. 35): remark #1531-D: (ULP 5.2) Detected floating point operation(s). Recommend moving them to RAM during run time or not using as these are processing/power intensive
+"../Lab02_P3.c", line 141 (col. 19): remark #1531-D: (ULP 5.2) Detected floating point operation(s). Recommend moving them to RAM during run time or not using as these are processing/power intensive
+Finished building: "../Lab02_P3.c"
+ 
+
+**** Build Finished ****

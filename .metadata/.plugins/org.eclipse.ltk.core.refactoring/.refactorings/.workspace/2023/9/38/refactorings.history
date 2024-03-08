@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;cpe323_quiz3/findDelta.asm&apos;" deleteContents="false" description="Delete resource &apos;cpe323_quiz3/findDelta.asm&apos;" element1="/cpe323_quiz3/findDelta.asm" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1695416378894"/>
+</session>

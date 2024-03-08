@@ -1,0 +1,12 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Lab03_P1,org.eclipse.launchbar.core.descriptorType.default\:Lab1_D1,org.eclipse.launchbar.core.descriptorType.default\:cpe232_hw3,org.eclipse.launchbar.core.descriptorType.default\:cpe323_quiz3,org.eclipse.launchbar.core.descriptorType.default\:lab1_pt1,org.eclipse.launchbar.core.descriptorType.default\:cpe325_lab1,org.eclipse.launchbar.core.descriptorType.default\:lab1_pt2,org.eclipse.launchbar.core.descriptorType.default\:lab2_pt1,org.eclipse.launchbar.core.descriptorType.default\:lab2_pt3,org.eclipse.launchbar.core.descriptorType.default\:lab4_p1,org.eclipse.launchbar.core.descriptorType.default\:lab4_p2,org.eclipse.launchbar.core.descriptorType.default\:lab4_p3,org.eclipse.launchbar.core.descriptorType.default\:lab5_bonus,org.eclipse.launchbar.core.descriptorType.default\:lab5_main,org.eclipse.launchbar.core.descriptorType.default\:lab6_jonathan,org.eclipse.launchbar.core.descriptorType.default\:lab6_p1,org.eclipse.launchbar.core.descriptorType.default\:lab6_p2,org.eclipse.launchbar.core.descriptorType.default\:lab7_p1,org.eclipse.launchbar.core.descriptorType.default\:lab7_p2,org.eclipse.launchbar.core.descriptorType.default\:lab8_Houston,org.eclipse.launchbar.core.descriptorType.default\:lab9_2013,org.eclipse.launchbar.core.descriptorType.default\:lab9_4618,org.eclipse.launchbar.core.descriptorType.default\:lab8_main,org.eclipse.launchbar.core.descriptorType.default\:lab10_p1,org.eclipse.launchbar.core.descriptorType.default\:lab10_p3
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Lab03_P1/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:Lab03_P1/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Lab1_D1/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Lab1_D1/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:cpe325_lab1/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:cpe325_lab1/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:lab1_pt2/activeLaunchMode=debug

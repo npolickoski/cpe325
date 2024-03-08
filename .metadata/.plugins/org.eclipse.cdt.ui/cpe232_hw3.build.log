@@ -1,0 +1,20 @@
+
+**** Build of configuration Debug for project cpe232_hw3 ****
+
+"C:\\ti\\ccs1240\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+Building file: "../q4.asm"
+Invoking: MSP430 Compiler
+"C:/ti/ccs1240/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/bin/cl430" -vmspx --code_model=small --data_model=small --use_hw_mpy=F5 --include_path="C:/ti/ccs1240/ccs/ccs_base/msp430/include" --include_path="C:/Users/npoli/Documents/nerd code/C - Embedded Lab/cpe232_hw3" --include_path="C:/ti/ccs1240/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include" --advice:power=all --define=__MSP430F5529__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --silicon_errata=CPU21 --silicon_errata=CPU22 --silicon_errata=CPU23 --silicon_errata=CPU40 --preproc_with_compile --preproc_dependency="q4.d_raw"  "../q4.asm"
+1 Assembly Error, No Assembly Warnings
+ 
+>> Compilation failure
+subdir_rules.mk:9: recipe for target 'q4.obj' failed
+"../q4.asm", ERROR!   at EOF: [E0300] The following symbols are undefined:
+  __STACK_END
+ 
+Errors in Source - Assembler Aborted
+gmake: *** [q4.obj] Error 1
+gmake: Target 'all' not remade because of errors.
+
+**** Build Finished ****

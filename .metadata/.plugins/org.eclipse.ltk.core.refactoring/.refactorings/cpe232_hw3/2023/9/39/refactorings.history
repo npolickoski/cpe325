@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;cpe232_hw3/main.asm&apos; to &apos;q1.asm&apos;" description="Rename resource &apos;main.asm&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="main.asm" name="q1.asm" stamp="1695524190236" updateReferences="true"/>
+</session>

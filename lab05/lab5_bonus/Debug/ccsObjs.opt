@@ -1,0 +1,6 @@
+"./HW_dot.obj"
+"./SW_dot.obj"
+"./lab5_bonus.obj"
+"../lnk_msp430f5529.cmd"
+-llibmath.a
+-llibc.a
